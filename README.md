@@ -1,1 +1,1 @@
-# c1-refractor
+The purpose oft his project is to learn to refractor code and to make it more accesible for people with disabilities. This will give the website a higher rank in search engines and create more viwership for the website without having to generate mored adds.
